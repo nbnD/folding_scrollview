@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 class PageViewItem extends StatelessWidget {
-//  final Color color;
   final int index;
   final String url;
   final double width;
